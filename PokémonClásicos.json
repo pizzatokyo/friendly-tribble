@@ -1,0 +1,275 @@
+{
+  "name": "Pokémon Clásicos.",
+  "downloads": [
+    {
+      "title": "Pokémon FireRed Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gba",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBA%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Rojo%20Fuego.gba"
+      ],
+      "fileSize": "16,0 MB"
+    },
+    {
+      "title": "Pokémon Emerald Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gba",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBA%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Esmeralda.gba"
+      ],
+      "fileSize": "16,0 MB"
+    },
+    {
+      "title": "Pokémon LeafGreen Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gba",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBA%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Verde%20Hoja.gba"
+      ],
+      "fileSize": "16,0 MB"
+    },
+    {
+      "title": "Pokémon Ruby Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gba",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBA%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Rub%C3%AD.gba"
+      ],
+      "fileSize": "16,0 MB"
+    },
+    {
+      "title": "Pokémon Sapphire Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gba",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBA%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Zafiro.gba"
+      ],
+      "fileSize": "16,0 MB"
+    },
+    {
+      "title": "Pokémon Mystery Dungeon: Red Rescue Team",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gba",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBA%5D%20Pok%C3%A9mon%20Mundo%20Misterioso%20Equipo%20de%20rescate%20rojo.gba"
+      ],
+      "fileSize": "32,0 MB"
+    },
+    {
+      "title": "Pokémon Pinball: Ruby & Sapphire",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gba",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBA%5D%20Pok%C3%A9mon%20Pinball%20Rub%C3%AD%20y%20Zafiro.gba"
+      ],
+      "fileSize": "16,0 MB"
+    },
+    {
+      "title": "Pokémon Yellow Version: Special Pikachu Edition",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gb",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGB%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Amarilla%20Edici%C3%B3n%20Especial%20Pikachu.gb"
+      ],
+      "fileSize": "1,00 MB"
+    },
+    {
+      "title": "Pokémon Red Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gb",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGB%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Roja.gb"
+      ],
+      "fileSize": "1,00 MB"
+    },
+    {
+      "title": "Pokémon Blue Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gb",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGB%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Azul.gb"
+      ],
+      "fileSize": "1,00 MB"
+    },
+    {
+      "title": "Pokémon Silver Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gbc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBC%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Plata.gbc"
+      ],
+      "fileSize": "2,00 MB"
+    },
+    {
+      "title": "Pokémon Crystal Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gbc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBC%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Cristal.gbc"
+      ],
+      "fileSize": "2,00 MB"
+    },
+    {
+      "title": "Pokémon Gold Version",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gbc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBC%5D%20Pok%C3%A9mon%20Edici%C3%B3n%20Oro.gbc"
+      ],
+      "fileSize": "2,00 MB"
+    },
+    {
+      "title": "Pokémon Pinball",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gbc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBC%5D%20Pok%C3%A9mon%20Pinball.gbc"
+      ],
+      "fileSize": "2,00 MB"
+    },
+    {
+      "title": "Pokémon Puzzle Challenge",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gbc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBC%5D%20Pok%C3%A9mon%20Puzzle%20Challenge.gbc"
+      ],
+      "fileSize": "2,00 MB"
+    },
+    {
+      "title": "Pokémon Trading Card Game",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gbc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGBC%5D%20Pok%C3%A9mon%20Trading%20Card%20Game.gbc"
+      ],
+      "fileSize": "2,00 MB"
+    },
+    {
+      "title": "Pokémon XD: Gale of Darkness",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGC%5D%20Pok%C3%A9mon%20XD%20Tempestad%20Oscura.rvz"
+      ],
+      "fileSize": "939 MB"
+    },
+    {
+      "title": "Pokémon Colosseum",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGC%5D%20Pok%C3%A9mon%20Colosseum.rvz"
+      ],
+      "fileSize": "680 MB"
+    },
+    {
+      "title": "Pokémon Box: Ruby & Sapphire",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGC%5D%20Pok%C3%A9mon%20Box%20Rub%C3%AD%20y%20Zafiro.rvz"
+      ],
+      "fileSize": "109 MB"
+    },
+    {
+      "title": "Pokémon Channel",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "gc",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BGC%5D%20Pok%C3%A9mon%20Channel.rvz"
+      ],
+      "fileSize": "1,19 GB"
+    },
+    {
+      "title": "Pokémon Stadium",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "n64",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BN64%5D%20Pok%C3%A9mon%20Stadium.z64"
+      ],
+      "fileSize": "32,0 MB"
+    },
+    {
+      "title": "Pokémon Stadium 2",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "n64",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BN64%5D%20Pok%C3%A9mon%20Stadium%202.z64"
+      ],
+      "fileSize": "64,0 MB"
+    },
+    {
+      "title": "Pokémon Snap",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "n64",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BN64%5D%20Pok%C3%A9mon%20Snap.z64"
+      ],
+      "fileSize": "16,0 MB"
+    },
+    {
+      "title": "Pokémon Battle Revolution",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "wii",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BWii%5D%20Pok%C3%A9mon%20Battle%20Revolution.rvz"
+      ],
+      "fileSize": "1,14 GB"
+    },
+    {
+      "title": "PokéPark Wii: Pikachu's Adventure",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "wii",
+      "uris": [
+        "https://archive.org/download/pokemonclasicos/Pok%C3%A9mon%20Cl%C3%A1sicos/%5BWii%5D%20Pok%C3%A9Park%20Wii%20La%20gran%20aventura%20de%20Pikachu.rvz"
+      ],
+      "fileSize": "1,96 GB"
+    },
+    {
+      "title": "",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "",
+      "uris": [
+        ""
+      ],
+      "fileSize": ""
+    },
+    {
+      "title": "",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "",
+      "uris": [
+        ""
+      ],
+      "fileSize": ""
+    },
+    {
+      "title": "",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "",
+      "uris": [
+        ""
+      ],
+      "fileSize": ""
+    },
+    {
+      "title": "",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "",
+      "uris": [
+        ""
+      ],
+      "fileSize": ""
+    },
+    {
+      "title": "",
+      "uploadDate": "2026-10-27T10:20:50.000Z",
+      "platform": "",
+      "uris": [
+        ""
+      ],
+      "fileSize": ""
+    }
+  ]
+}
